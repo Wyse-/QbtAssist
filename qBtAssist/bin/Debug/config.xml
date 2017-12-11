@@ -1,0 +1,15 @@
+<qBtAssist>
+    <Login>
+		<Host>http://127.0.0.1:8080</Host>
+        <Username>admin</Username>
+        <Password>admin123</Password>
+    </Login>
+	<Setup>
+		<UploadLimit>51200</UploadLimit>
+		<DownloadLimit>512000</DownloadLimit>
+	</Setup>
+    <ProcessNames>
+        <Process>TslGame</Process>
+        <Process>RainbowSix</Process>
+    </ProcessNames>
+</qBtAssist>

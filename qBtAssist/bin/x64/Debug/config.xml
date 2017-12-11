@@ -1,0 +1,24 @@
+<qBtAssist>
+    <Login>
+		<Host>http://127.0.0.1:8080</Host>
+        <Username>admin</Username>
+        <Password>admin123</Password>
+    </Login>
+	<Setup>
+		<UploadLimit>51200</UploadLimit>
+		<DownloadLimit>512000</DownloadLimit>
+	</Setup>
+    <ProcessNames>
+        <Process>notepad++</Process>
+        <Process>ABC2</Process>
+		<Process>ABC3</Process>
+		<Process>ABC</Process>
+		<Process>ABC</Process>
+		<Process>ABC</Process>
+		<Process>ABC</Process>
+		<Process>ABC</Process>
+		<Process>ABC</Process>
+		<Process>ABC4</Process>
+		<Process>ABC5</Process>
+    </ProcessNames>
+</qBtAssist>

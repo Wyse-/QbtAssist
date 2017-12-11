@@ -1,0 +1,6 @@
+C:\Users\Wyse\source\repos\qBtAssist\qBtAssist\bin\x64\Debug\qBtAssist.exe.config
+C:\Users\Wyse\source\repos\qBtAssist\qBtAssist\bin\x64\Debug\qBtAssist.exe
+C:\Users\Wyse\source\repos\qBtAssist\qBtAssist\bin\x64\Debug\qBtAssist.pdb
+C:\Users\Wyse\source\repos\qBtAssist\qBtAssist\obj\x64\Debug\qBtAssist.csproj.CoreCompileInputs.cache
+C:\Users\Wyse\source\repos\qBtAssist\qBtAssist\obj\x64\Debug\qBtAssist.exe
+C:\Users\Wyse\source\repos\qBtAssist\qBtAssist\obj\x64\Debug\qBtAssist.pdb
