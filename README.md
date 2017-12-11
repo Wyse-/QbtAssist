@@ -51,7 +51,7 @@ Process: name of a process which should trigger the upload and download cap. Thi
 
 
 ## License
-This software is released under [The Unlicense](https://github.com/Wyse-/QbtAssist/blob/master/LICENSE), however the [qBittorrentSharp library](https://github.com/teug91/qBittorrentSharp) is released under a [different license](https://github.com/teug91/qBittorrentSharp/blob/master/LICENSE)
+This software is released under [The Unlicense](https://github.com/Wyse-/QbtAssist/blob/master/LICENSE), however the [qBittorrentSharp library](https://github.com/teug91/qBittorrentSharp) is released under a [different license](https://github.com/Wyse-/QbtAssist/blob/master/LICENSE_qBittorrentSharp)
 
 
 ## Compiling & testing
