@@ -4,7 +4,7 @@
 ## Screenshots
 
 
-![alt tag](https://i.imgur.com/N4jhD4b.png)
+![alt tag](https://i.imgur.com/7KzyNfb.png)
 
 Note: command line window intended for debugging and/or demonstration purposes only, should be hidden with Quiet during normal usage.
 
@@ -55,4 +55,4 @@ This software is released under [The Unlicense](https://github.com/Wyse-/QbtAssi
 
 
 ## Compiling & testing
-This project has been compiled with Visual Studio Community 2017 and tested on Windows 7 x64.
+This project has been compiled with Visual Studio Community 2017 and tested on Windows 7 x64 with qBittorrent 4.0.2.
