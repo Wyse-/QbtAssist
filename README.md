@@ -21,7 +21,7 @@ is running it caps upload and download speeds on Qbittorrent, if not it uncaps t
 
 Everything is configured through an XML file stored in the directory where the main executable is located.
 
-.NET Framework 4.6.1 is required.
+**.NET Framework 4.6.1 is required.**
 
 
 ## How-to
