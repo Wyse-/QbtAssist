@@ -9,16 +9,7 @@
 		<DownloadLimit>512000</DownloadLimit>
 	</Setup>
     <ProcessNames>
-        <Process>notepad++</Process>
-        <Process>ABC2</Process>
-		<Process>ABC3</Process>
-		<Process>ABC</Process>
-		<Process>ABC</Process>
-		<Process>ABC</Process>
-		<Process>ABC</Process>
-		<Process>ABC</Process>
-		<Process>ABC</Process>
-		<Process>ABC4</Process>
-		<Process>ABC5</Process>
+        <Process>TslGame</Process>
+        <Process>RainbowSix</Process>
     </ProcessNames>
 </qBtAssist>

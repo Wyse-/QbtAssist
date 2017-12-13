@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27130.2003
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qBtAssist", "qBtAssist\qBtAssist.csproj", "{A691F9C1-9620-44F3-B914-E4307468BCB4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "qBtAssistTests", "qBtAssistTests\qBtAssistTests.csproj", "{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,14 @@ Global
 		{A691F9C1-9620-44F3-B914-E4307468BCB4}.Release|Any CPU.Build.0 = Release|Any CPU
 		{A691F9C1-9620-44F3-B914-E4307468BCB4}.Release|x64.ActiveCfg = Release|x64
 		{A691F9C1-9620-44F3-B914-E4307468BCB4}.Release|x64.Build.0 = Release|x64
+		{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}.Debug|x64.Build.0 = Debug|Any CPU
+		{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}.Release|x64.ActiveCfg = Release|Any CPU
+		{A64F0B36-801C-40A3-A7F1-5C358CFF8C31}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
