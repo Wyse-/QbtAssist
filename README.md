@@ -3,14 +3,13 @@
 
 ## Screenshots
 
-
 ![alt tag](https://i.imgur.com/7KzyNfb.png)
 
 Note: command line window intended for debugging and/or demonstration purposes only, should be hidden with Quiet during normal usage.
 
 
-## Descritpion
-This software interacts with the Qbittorrent WebUI: its purpose is to limit download and upload speeds to values set by the user when a specifig process is running. 
+## Description
+This software interacts with the Qbittorrent WebUI: its purpose is to limit download and upload speeds to values set by the user when a specified process is running. 
 
 Said process (or processes) can be configured by the user and should obviously be some kind of applications that benefit from having unrestricted bandwidth usage.
 For example, if you have a 500kb/s upload cap and Qbittorrent is hogging all available upload bandwidth (i.e. you're constantly seeding at 500kb/s) and try playing online games
@@ -30,7 +29,7 @@ advantages over the x86 and uses slightly more memory than the x86 one.
 - Open up the XML file in a text editor and configure it, see XML configuration instructions below.
 - Download [Quiet](http://www.joeware.net/freetools/tools/quiet/index.htm), this is needed to hide the QbtAssist console window.
 - Place everything in the same directory.
-- Enable the Qbittorrent WebUI from the Qbittorrent options panel: just check "Web User Interface (Remote control)" and make sure the username and password are the same as the onees
+- Enable the Qbittorrent WebUI from the Qbittorrent options panel: just check "Web User Interface (Remote control)" and make sure the username and password are the same as the ones
 in the XML file, leave everything else as is.
 - Add start.bat to Windows autostart.
 - Done!
@@ -57,3 +56,4 @@ This software is released under [The Unlicense](https://github.com/Wyse-/QbtAssi
 
 ## Compiling & testing
 This project has been compiled with Visual Studio Community 2017 and tested on Windows 7 x64 with qBittorrent 4.0.2.
+
