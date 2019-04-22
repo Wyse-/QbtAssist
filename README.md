@@ -3,7 +3,7 @@
 
 ## Screenshots
 
-![alt tag](https://i.imgur.com/7KzyNfb.png)
+![screenshot](https://user-images.githubusercontent.com/5454041/56529512-20e2c680-6551-11e9-8cae-5d2e815c4661.png)
 
 Note: command line window intended for debugging and/or demonstration purposes only, should be hidden with Quiet during normal usage.
 
